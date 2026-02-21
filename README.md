@@ -5,17 +5,16 @@
 ## Roadmap
 
 - [ ] RGB Control
-    This specific model has a few presets in its official Windows driver. I
-    will try to port them, too.
-
-    > [!TIP]
-    > This may, possibly, be achieved via `OpenRGB`. I did not test it, yet.
-    > This to-do may be removed if it works OOTB.
+- This specific model has a few presets in its official Windows driver. I will
+try to port them, too.
+> [!NOTE]
+> This may, possibly, be achieved via `OpenRGB`. I did not test it, yet.
+> This to-do may be removed if it works OOTB.
 
 - [ ] Button Configuration
-    This specific model has 3 configurable buttons.
-    1. 2 buttons on the side, that is mostly used for web-surfing (backwards/forwards in a web page).
-    2. 1 button on the top, that is mostly used for DPI control.
+- This specific model has 3 configurable buttons.
+1. 2 buttons on the side, that is mostly used for web-surfing (backwards/forwards in a web page).
+2. 1 button on the top, that is mostly used for DPI control.
 
 # License
 
